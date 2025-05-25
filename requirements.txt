@@ -1,0 +1,8 @@
+crewai
+crewai-tools
+chromadb
+pydantic
+openai
+serper-dev
+beautifulsoup4
+requests
